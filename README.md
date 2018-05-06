@@ -1,6 +1,6 @@
 # Bomberman
 
-A bomberman clone written using C++ and SFML.
+A bomberman clone written using C++ and SFML. Most of the enemy ghosts follow a pre-determined pattern of movement whereas the red ghosts implement the A\* algorithm to chase the player.
 
 # Screenshots
 
