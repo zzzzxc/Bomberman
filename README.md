@@ -6,7 +6,13 @@ A bomberman clone written using C++ and SFML. Most of the enemy ghosts follow a 
 
 ![Alt text](Screenshots/splash.png?raw=true "Splash Screen")
 
-![Alt text](Screenshots/Arcade.jpg?raw=true "Arcade Mode")
+![Alt text](Screenshots/level1.png?raw=true "Level 1")
+
+![Alt text](Screenshots/level2.png?raw=true "Level 2")
+
+![Alt text](Screenshots/level3.png?raw=true "Level 3")
+
+![Alt text](Screenshots/level5.png?raw=true "Level 5")
 
 ![Alt text](Screenshots/VS.png?raw=true "Versus Mode")
 
