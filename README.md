@@ -6,7 +6,7 @@ A bomberman clone written using C++ and SFML.
 
 ![Alt text](Screenshots/splash.png?raw=true "Splash Screen")
 
-![Alt text](Screenshots/Arcade.png?raw=true "Arcade Mode")
+![Alt text](Screenshots/Arcade.jpg?raw=true "Arcade Mode")
 
 ![Alt text](Screenshots/VS.png?raw=true "Versus Mode")
 
